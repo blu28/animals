@@ -7,5 +7,6 @@ public class Main {
         MammalInt m = new MammalInt();
         m.eat();
         m.travel();
+        System.out.println(m);
     }
 }
